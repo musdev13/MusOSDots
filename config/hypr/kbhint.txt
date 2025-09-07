@@ -1,0 +1,30 @@
+ALT+Q -> open terminal
+ALT+W -> close window
+ALT+M -> logout
+ALT+E -> open file manager
+ALT+F -> toggle float
+ALT+A -> open application menu
+ALT+J -> change window split direction
+ALT+C -> clipboard buffer
+ALT+L -> lockscreen
+ALT+SHIFT+F -> fullscreen
+ALT+V -> show volume level
+ALT+CTRL+B -> toggle waybar
+SUPER+1 -> open AyuGram
+ALT+S -> open browser
+PrtSc -> screenshot (Screen)
+CTRL+PrtSc -> screenshot (Region)
+SHIFT+PrtSc -> screenshot (Window)
+ALT+Z -> zoom in
+ALT+X -> zoom out
+ALT+B -> reset zoom
+SUPER+Arrows -> movefocus
+ALT+1-0 -> workspaces
+ALT+SHIFT+1-9 -> move window to workspace
+ALT+CTRL+Arrows -> swap windows
+ALT+SUPER+Arrows -> move window
+ALT+SHIFT+CTRL+Arrows -> resize window (a little bit)
+ALT+SHIFT+Arrows -> resize window
+ALT+LMB -> move window (with mouse)
+ALT+RMB -> resize window (with mouse)
+Laptop FN f1-12 keys -> volume,microphone,screen brightness

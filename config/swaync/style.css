@@ -1,0 +1,42 @@
+* {
+  all: unset;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 14px;
+}
+
+/* Контейнер уведомлений */
+.notification-row {
+  border: 2px solid #686869;
+  border-radius: 6px;
+  padding: 8px;
+  margin: 5px;
+  background-color: #0B0B0C; /* Тёмный фон */
+  opacity: 0.9;
+  color: white;
+}
+
+/* Внутренности уведомления */
+.notification {
+  padding: 5px;
+}
+
+/* Заголовок */
+.notification .summary {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+/* Текст */
+.notification .body {
+  margin-top: 4px;
+}
+
+/* Кнопки */
+.notification .actions button {
+  margin: 4px 2px 0 0;
+  padding: 4px 6px;
+  background-color: #0B0B0C;
+  color: white;
+  border-radius: 4px;
+}
+
